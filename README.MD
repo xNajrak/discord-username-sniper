@@ -1,5 +1,3 @@
 # 😎 Discord Username Sniper 😎
-![cant load image](gaynigger.mp4)  
-
-# **Buy swiftcord for 5$ here: discord.gg/arkoselabs**
+[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png](https://streamable.com/p343zy))](https://streamable.com/p343zy)
 

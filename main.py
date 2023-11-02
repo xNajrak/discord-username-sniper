@@ -36,12 +36,12 @@ threading.Thread(target=updatetitle).start()
 
 def checkUsername():
     username = generateUsername()
-    url = "https://discord.com/api/v9/users/@me/pomelo-attempt"
+    url = "https://discord.com/api/v9/unique-username/username-attempt-unauthed" #https://discord.com/api/v9/users/@me/pomelo-attempt
     headers = {
                 "authority": "discord.com",
                 "accept": "*/*",
                 "accept-language": "en-US,en;q=0.9",
-                "authorization": random.choice(tokens),
+                #"authorization": random.choice(tokens),
                 "cache-control": "no-cache",
                 "content-type": "application/json",
                 "cookie": "__dcfduid=676e06b0565b11ed90f9d90136e0396b; __sdcfduid=676e06b1565b11ed90f9d90136e0396bc28dfd451bebab0345b0999e942886d8dfd7b90f193729042dd3b62e2b13812f; __cfruid=1cefec7e9c504b453c3f7111ebc4940c5a92dd08-1666918609; locale=en-US",
